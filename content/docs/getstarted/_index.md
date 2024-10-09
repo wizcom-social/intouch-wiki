@@ -1,17 +1,20 @@
 ---
-title: "Get Started"
-description: ""
+title: Get Started
 summary: ""
-date: 2023-09-07T16:12:37+02:00
-lastmod: 2023-09-07T16:12:37+02:00
+date: 2024-10-09T10:42:00+03:00
+lastmod: 2024-10-09T10:42:00+03:00
 draft: false
-weight: 1000
-toc: false
+weight: 10
+toc: true
 sidebar:
   collapsed: true
+description: Get Started
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: Get Started
+  description: Get Started
+  canonical: https://wiki.wizcom.gr/intouch/docs/getstarted/εγκατάσταση-προαπαιτούμενου-λογισμικού/
+  noindex: false
 ---
+## Εμπορική εφαρμογή inTouch
+
+Ολοκληρωμένη εμπορική εφαρμογή για εύκολη διαχείριση λιανικής και χονδρικής πώλησης.
