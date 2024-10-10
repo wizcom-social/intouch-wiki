@@ -21,6 +21,7 @@
       "head",
       "header",
       "html",
+      "img",
       "input",
       "kbd",
       "label",
@@ -112,6 +113,7 @@
       "home",
       "icon",
       "icon-tabler",
+      "icon-tabler-arrow-left",
       "icon-tabler-clock",
       "icon-tabler-dots-vertical",
       "icon-tabler-menu",
@@ -198,6 +200,7 @@
       "tags",
       "taxonomy",
       "text-body",
+      "text-body-secondary",
       "text-center",
       "text-decoration-none",
       "text-lg-end",
@@ -209,6 +212,7 @@
       "title-submitted",
       "toc-mobile",
       "visually-hidden",
+      "w-100",
       "wrap"
     ],
     "ids": [
@@ -216,6 +220,7 @@
       "buttonColorMode",
       "doks-docs-nav",
       "further-reading",
+      "h-rh-i-0",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
@@ -230,7 +235,8 @@
       "toc",
       "εγκατάσταση-sql",
       "εγκατάσταση-προαπαιτούμενου-λογισμικού",
-      "εμπορική-εφαρμογή-intouch"
+      "εμπορική-εφαρμογή-intouch",
+      "σύνδεση-webεdit-με-το-intouch"
     ]
   }
 }
