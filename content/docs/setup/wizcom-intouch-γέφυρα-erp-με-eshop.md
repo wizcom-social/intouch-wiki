@@ -13,3 +13,5 @@ seo:
   description: Wizcom inTouch Γέφυρα ERP με ESHOP
 ---
 ## Σύνδεση WebΕdit με το InTouch
+
+![intouch](/images/001.jpg "intouch")
