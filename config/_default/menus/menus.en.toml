@@ -61,6 +61,12 @@
   name = "Get Started"
   pageRef = "/docs/getstarted"
   weight = 10
+
+[[sidebar_docs]]
+  name = "Installation"
+  pageRef = "/docs/setup"
+  weight = 20
+
 #
 # [[sidebar_docs]]
 #   name = "Reference"
