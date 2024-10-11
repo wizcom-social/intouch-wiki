@@ -2,9 +2,9 @@ backend:
     name: github
     repo: thanos-wizcom/intouch-wiki
     branch: main
-    base_url: https://crimson-hall-5b57.social-96f.workers.dev/
-    auth_endpoint: auth
-    site_domain: https://wiki.wizcom.gr/intouch
+    base_url: https://sveltia-cms-auth.social-96f.workers.dev
+    # site_domain: https://wiki.wizcom.gr/
+    # auth_endpoint: auth
 
 media_folder: assets/images
 public_folder: /images
