@@ -29,14 +29,14 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "inOrder"
-  url = "https://wiki.wizcom.gr/inorder/index.html"
-  weight = 10
+  name = "inTouch"
+  url = "https://wiki.wizcom.gr/intouch/index.html"
+  weight = 20
 
 [[main]]
-  name = "inTouch"
+  name = "inOrder"
   url = "/docs/getstarted/"
-  weight = 20
+  weight = 10
 
 # [[main]]
 #   name = "Blog"
