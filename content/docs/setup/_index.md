@@ -4,7 +4,7 @@ description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00
 lastmod: 2023-09-07T16:12:37+02:00
-draft: false
+draft: true
 weight: 210
 toc: true
 sidebar:
@@ -13,7 +13,7 @@ seo:
   title: Εγκατάσταση - Αναβάθμιση
   description: Εγκατάσταση - Αναβάθμιση
   canonical: ""
-  noindex: false
+  noindex: true
 ---
 
 Εγκατάσταση - Αναβάθμιση
