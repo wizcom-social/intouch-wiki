@@ -5,7 +5,7 @@ summary: ""
 date: 2024-10-16T13:04:00+03:00
 lastmod: 2024-10-16T13:33:00+03:00
 draft: false
-weight: 20
+weight: 120
 toc: true
 seo:
   title: Οδηγίες εγκατάστασης

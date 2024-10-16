@@ -1,7 +1,7 @@
 
 {
-  "name": "inTouch Wiki",
-  "short_name": "inTouch Wiki",
+  "name": "Wizcom Wiki",
+  "short_name": "Wizcom Wiki",
   "lang": "en",
   "icons": [
     {
@@ -18,5 +18,5 @@
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
-  "start_url": "/intouch/"
+  "start_url": "/"
 }
