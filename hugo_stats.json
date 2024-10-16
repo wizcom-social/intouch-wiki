@@ -236,6 +236,10 @@
       "doks-docs-nav",
       "further-reading",
       "h-rh-i-0",
+      "h-rh-i-1",
+      "h-rh-i-2",
+      "h-rh-i-3",
+      "h-rh-i-4",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
@@ -248,13 +252,14 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "sql-configuration",
-      "sql-database",
       "toc",
+      "αναβάθμιση-βάσης-δεδομένων",
       "δημιουργία-βάσης-sql",
       "εγκατάσταση-sql",
       "εγκατάσταση-προαπαιτούμενου-λογισμικού",
       "εμπορική-εφαρμογή-intouch",
-      "σύνδεση-webεdit-με-το-intouch"
+      "σύνδεση-βάσης-δεδομένων",
+      "τοπικές-ρυθμίσεις"
     ]
   }
 }
