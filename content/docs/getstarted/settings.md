@@ -28,3 +28,5 @@ seo:
 ασχέτως αν έχουμε την πιο πρόσφατη .NET.
 
 ## Εγκατάσταση SQL
+
+[Download SQL 2019 Express](https://www.microsoft.com/en-us/download/confirmation.aspx?id=101064)
