@@ -68,8 +68,8 @@
   weight = 10
 
 [[sidebar_docs]]
-  name = "Installation"
-  pageRef = "/docs/setup"
+  name = "Οδηγός Χρήσης"
+  pageRef = "/docs/guides"
   weight = 20
 
 #
