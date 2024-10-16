@@ -37,7 +37,7 @@ seo:
 
 Κάνουμε την εγκατάσταση
 
-## SQL Database
+## Δημιουργία βάσης SQL 
 
 Κατεβάζουμε μία κενή [βάση inTouch](https://drive.google.com/file/d/118rosCFKAwupg7Gjl1RG9J3d3NIyI3Ws/view?usp=sharing) και την αποθηκεύουμε στο φάκελο **backup**  στο ακόλουθο path:
 
