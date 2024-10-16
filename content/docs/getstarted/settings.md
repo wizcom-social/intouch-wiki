@@ -3,7 +3,7 @@ title: Προαπαιτούμενα
 description: Προαπαιτούμενα
 summary: ""
 date: 2024-10-16T13:04:00+03:00
-lastmod: 2024-10-16T13:04:00+03:00
+lastmod: 2024-10-16T13:33:00+03:00
 draft: false
 weight: 20
 toc: true
@@ -29,4 +29,41 @@ seo:
 
 ## Εγκατάσταση SQL
 
-[Download SQL 2019 Express](https://www.microsoft.com/en-us/download/confirmation.aspx?id=101064)
+* [Download SQL 2019 Express](https://www.microsoft.com/en-us/download/confirmation.aspx?id=101064)
+
+Κάνουμε την εγκατάσταση, στον κωδικο **sa** βαζουμε : **!nTouchP0$**
+
+* [SSMS (SQL Management)](https://aka.ms/ssmsfullsetup)
+
+Κάνουμε την εγκατάσταση
+
+## SQL Database
+
+Κατεβάζουμε μία κενή [βάση inTouch](https://drive.google.com/file/d/118rosCFKAwupg7Gjl1RG9J3d3NIyI3Ws/view?usp=sharing) και την αποθηκεύουμε στο φάκελο **backup**  στο ακόλουθο path:
+
+```
+C:\Microsoft SQL Server\MSSQL12.SQL2019\MSSQL\Backup
+```
+
+ ανοίγουμε το SQL Server Management Studio και εισάγουμε την database:
+
+* Στα αριστερά , στην καρτέλα Object Explorer, κάνουμε δεξί κλικ στην επιλογή DATABASES
+
+* DATABASES -> RESTORE DATABASE 
+
+* Ανοίγει ένα παράθυρο και στην σελίδα General επιλέγουμε  Device
+
+* Στα δεξιά κάνουμε κλικ τις 3 τελείες (…) και με add επιλέγουμε την βάση μας.
+
+* Θα εμφανιστεί «Database “Intouchdb“ restored successfully».
+
+## SQL Configuration
+
+ Ανοίγουμε το SQL Server 2019 Configuration Manager
+
+* Επιλέγουμε την καρτέλα Protocols for SQL2019
+* TCP/IP Disabled -> Enabled
+* Διπλό κλικ  TCP/IP και επιλέγουμε την καρτέλα IP Addresses
+* ΟΛΑ ΤΑ ENABLED από NO -> YES
+* ΣΒΗΝΟΥΜΕ ΤΑ 0 ΑΠΟ ΟΛΑ ΤΑ TCP Dynamic Ports και το αφήνουμε ΚΕΝΟ
+* Σε όλα τα πεδία TCP Port βάζουμε 1433
