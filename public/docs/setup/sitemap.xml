@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://wiki.wizcom.gr/intouch/docs/setup/wizcom-intouch-%CE%B3%CE%AD%CF%86%CF%85%CF%81%CE%B1-erp-%CE%BC%CE%B5-eshop/</loc><lastmod>2024-10-10T09:41:00+03:00</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/docs/setup/wizcom-intouch-%CE%B3%CE%AD%CF%86%CF%85%CF%81%CE%B1-erp-%CE%BC%CE%B5-eshop/</loc>
+      <lastmod>2024-10-10T09:41:00+03:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>

@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Εγκατάσταση - Αναβάθμιση on inTouch Wiki</title><link>https://wiki.wizcom.gr/intouch/docs/setup/</link><description>Recent content in Εγκατάσταση - Αναβάθμιση on inTouch Wiki</description><generator>Hugo</generator><language>en</language><copyright>Copyright (c) 2020-2024 Thulite</copyright><lastBuildDate>Thu, 10 Oct 2024 09:41:00 +0300</lastBuildDate><atom:link href="https://wiki.wizcom.gr/intouch/docs/setup/index.xml" rel="self" type="application/rss+xml"/><item><title>Wizcom inTouch Γέφυρα ERP με ESHOP</title><link>https://wiki.wizcom.gr/intouch/docs/setup/wizcom-intouch-%CE%B3%CE%AD%CF%86%CF%85%CF%81%CE%B1-erp-%CE%BC%CE%B5-eshop/</link><pubDate>Thu, 10 Oct 2024 09:41:00 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/wizcom-intouch-%CE%B3%CE%AD%CF%86%CF%85%CF%81%CE%B1-erp-%CE%BC%CE%B5-eshop/</guid><description>&amp;quot;&amp;quot;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Εγκατάσταση - Αναβάθμιση on Wizcom Wiki</title>
+    <link>http://localhost:1313/docs/setup/</link>
+    <description>Recent content in Εγκατάσταση - Αναβάθμιση on Wizcom Wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 10 Oct 2024 09:41:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizcom inTouch Γέφυρα ERP με ESHOP</title>
+      <link>http://localhost:1313/docs/setup/wizcom-intouch-%CE%B3%CE%AD%CF%86%CF%85%CF%81%CE%B1-erp-%CE%BC%CE%B5-eshop/</link>
+      <pubDate>Thu, 10 Oct 2024 09:41:00 +0300</pubDate>
+      <guid>http://localhost:1313/docs/setup/wizcom-intouch-%CE%B3%CE%AD%CF%86%CF%85%CF%81%CE%B1-erp-%CE%BC%CE%B5-eshop/</guid>
+      <description>&amp;quot;&amp;quot;</description>
+    </item>
+  </channel>
+</rss>
