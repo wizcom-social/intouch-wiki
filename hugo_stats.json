@@ -144,7 +144,6 @@
       "list-nested",
       "list-unstyled",
       "list-view",
-      "m-2",
       "mb-0",
       "me-2",
       "me-auto",
@@ -238,8 +237,6 @@
       "further-reading",
       "h-rh-i-0",
       "h-rh-i-1",
-      "h-rh-i-2",
-      "h-rh-i-3",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
@@ -258,8 +255,7 @@
       "εγκατάσταση-sql",
       "εγκατάσταση-προαπαιτούμενου-λογισμικού",
       "εμπορική-εφαρμογή-intouch",
-      "σύνδεση-βάσης-δεδομένων",
-      "τοπικές-ρυθμίσεις"
+      "σύνδεση-βάσης-δεδομένων"
     ]
   }
 }
