@@ -1,9 +1,9 @@
 ---
-title: Οδηγίες εγκατάστασης
-description: ""
+title: Προαπαιτούμενα
+description: Προαπαιτούμενα
 summary: ""
-date: 2024-10-04T11:11:13+03:00
-lastmod: 2024-10-04T11:11:13+03:00
+date: 2024-10-16T13:04:00+03:00
+lastmod: 2024-10-16T13:04:00+03:00
 draft: false
 weight: 20
 toc: true
