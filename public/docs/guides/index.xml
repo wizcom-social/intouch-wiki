@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Οδηγός Χρήσης on Wizcom Wiki</title>
-    <link>http://localhost:1313/docs/guides/</link>
-    <description>Recent content in Οδηγός Χρήσης on Wizcom Wiki</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/guides/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Οδηγός Χρήσης on Wizcom Wiki</title><link>https://wiki.wizcom.gr/intouch/docs/guides/</link><description>Recent content in Οδηγός Χρήσης on Wizcom Wiki</description><generator>Hugo</generator><language>en</language><copyright>Copyright (c) 2020-2024 Thulite</copyright><lastBuildDate/><atom:link href="https://wiki.wizcom.gr/intouch/docs/guides/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
