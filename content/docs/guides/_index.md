@@ -15,4 +15,11 @@ seo:
   canonical: ""
   noindex: false
 ---
-{{< callout note >}} This is a note callout. Example text to show it in action. {{< /callout >}}
+{{< callout context="note" title="Note" icon="outline/info-circle" >}}
+Doks is a documentation website toolkit built with Thulite. You can get started with this command:
+
+```bash
+npm create thulite@latest -- --template doks
+```
+
+{{< /callout >}}
