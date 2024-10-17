@@ -113,6 +113,7 @@
       "error404",
       "expressive-code",
       "fade",
+      "flex",
       "flex-column",
       "flex-grow-1",
       "flex-lg-row",
@@ -159,6 +160,7 @@
       "mb-0",
       "mb-3",
       "mb-4",
+      "mb-5",
       "me-2",
       "me-auto",
       "me-lg-1",
@@ -257,6 +259,8 @@
       "toc-mobile",
       "visually-hidden",
       "w-100",
+      "w-25",
+      "w-50",
       "wrap"
     ],
     "ids": [
