@@ -15,11 +15,6 @@ seo:
   canonical: ""
   noindex: false
 ---
-{{< callout context="note" title="Note" icon="outline/info-circle" >}}
-Doks is a documentation website toolkit built with Thulite. You can get started with this command:
-
-```bash
-npm create thulite@latest -- --template doks
-```
-
+{{< callout context="tip" title="Did you know?" icon="outline/rocket" >}}
+Thulite simplifies developer on boarding time and makes for faster collaboration by using a single declaration manifest for [dependencies](https://docs.thulite.io/concepts/dependencies/).
 {{< /callout >}}
