@@ -13,20 +13,15 @@ seo:
   description: Εγκατάσταση InTouch
   canonical: Εγκατάσταση InTouch
 ---
-Κατεβάζουμε την τελευταία έκδοση του InTouch.
-
-[Download inTouch](https://update.intouch.gr/versions/Intouch%20Setup%206.99.759%20-%202024.07.18.14.30.exe)
+Κατεβάζουμε την [τελευταία έκδοση του InTouch.](https://update.intouch.gr/versions/Intouch%20Setup%206.99.759%20-%202024.07.18.14.30.exe)
 
 Τρέχουμε το εκτελέσιμο αρχείο.
 
 Στην επιφάνεια εργασίας, έχουν δημιουργηθεί 2 εικονίδια (InTouch και InTouch Setup).
 
 >
->
 > To [inTouch Setup](#) είναι το εργαλείο με το οποίο μπορούμε ανά πάσα στιγμή να τροποποιήσουμε τη σύνδεση με τη βάση , να τροποποιήσουμε δηλαδή το αρχείο **ConnectionStrings.xml** που βρίσκεται στο root folder του inTouch.
 >
->
-
 
 
 Για κωδικό ενεργοποίησης καλέστε : [241 067 0866](tel:+302410670866)
