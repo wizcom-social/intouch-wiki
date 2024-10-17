@@ -1,6 +1,5 @@
 ---
-title: "Οδηγός Χρήσης"
-description: ""
+title: Οδηγός Χρήσης
 summary: ""
 date: 2023-09-07T16:06:50+02:00
 lastmod: 2023-09-07T16:06:50+02:00
@@ -9,9 +8,11 @@ weight: 200
 toc: true
 sidebar:
   collapsed: true
+description: ""
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: ""
+  description: ""
+  canonical: ""
+  noindex: false
 ---
+{{< callout note >}} This is a note callout. Example text to show it in action. {{< /callout >}}
