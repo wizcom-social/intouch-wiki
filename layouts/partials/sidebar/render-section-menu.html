@@ -52,6 +52,7 @@ skipped. To override this behavior, set $skipHome to false below.
 
 {{- /* Render. */}}
 <nav class="section-nav docs-links">
+  {{/*  <img src="/images/intouch.png" alt="inTouch" />  */}}
   <ul class="list-unstyled">
     {{- range $nodes }}
       {{- if and .Page.IsHome $skipHome }}
@@ -66,7 +67,7 @@ skipped. To override this behavior, set $skipHome to false below.
 {{- define "walk" }}
   {{- $currentPage := .currentPage }}
   {{- $node := .node }}
-  
+
   {{- $linkContent := $node.Page.LinkTitle }}
   {{- with $node.Name }}
     {{- $linkContent = . }}
