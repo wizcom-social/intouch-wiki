@@ -50,9 +50,12 @@ skipped. To override this behavior, set $skipHome to false below.
 {{- $currentPage := .currentPage }}
 {{- $nodes := .nodes }}
 
+
 {{- /* Render. */}}
 <nav class="section-nav docs-links">
-  <img class="d-flex mx-auto mb-5" style="max-width: 100px;" src="/images/intouch_hu2454418619571392303.webp" alt="inTouch" />
+
+  <img class="d-flex mx-auto mb-5" style="max-width: 100px;" src="{{ site.Params.logo }}" alt="inTouch">
+  {{/*  <img class="d-flex mx-auto mb-5" style="max-width: 100px;" src="https://wiki.wizcom.gr/intouch/images/intouch.png" alt="inTouch">  */}}
   <ul class="list-unstyled">
     {{- range $nodes }}
       {{- if and .Page.IsHome $skipHome }}
