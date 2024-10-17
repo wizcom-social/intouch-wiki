@@ -15,7 +15,38 @@ seo:
   canonical: https://wiki.wizcom.gr/intouch/docs/getstarted/εγκατάσταση-προαπαιτούμενου-λογισμικού/
   noindex: false
 ---
+## Quick links
 
-## Εμπορική εφαρμογή inTouch
+{{< card-grid >}}
+{{< card title="Learn Doks" icon="outline/book" color="yellow" >}}
 
-Ολοκληρωμένη εμπορική εφαρμογή για εύκολη διαχείριση λιανικής και χονδρικής πώλησης.
+- [Project structure](/docs/basics/project-structure/)
+- [Configuration](/docs/basics/configuration/)
+- [Deploy](https://docs.thulite.io/guides/deploy/)
+
+{{< /card >}}
+{{< card title="Extend Doks" icon="outline/puzzle" color="purple" >}}
+
+- [Analytics](https://docs.thulite.io/guides/analytics/)
+- [CMS](https://docs.thulite.io/guides/cms/)
+- [DocSearch](/docs/recipes/docsearch/)
+
+{{< /card >}}
+{{< /card-grid >}}
+
+{{< card-grid >}}
+{{< card title="What's going on?" icon="outline/info-circle" color="green" >}}
+
+- [Roadmap 2024](https://github.com/orgs/thuliteio/discussions/462)
+- [Discussions](https://github.com/thuliteio/doks/discussions)
+- [Blog](/blog/)
+
+{{< /card >}}
+{{< card title="Other docs" icon="outline/books" color="red" >}}
+
+- [Thulite](https://docs.thulite.io/)
+- [Images](https://images.thulite.io/)
+- [SEO](https://seo.thulite.io/)
+
+{{< /card >}}
+{{< /card-grid >}}
