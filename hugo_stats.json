@@ -113,7 +113,6 @@
       "error404",
       "expressive-code",
       "fade",
-      "flex",
       "flex-column",
       "flex-grow-1",
       "flex-lg-row",
@@ -254,13 +253,12 @@
       "text-muted",
       "text-nowrap",
       "text-reset",
+      "text-white",
       "title",
       "title-submitted",
       "toc-mobile",
       "visually-hidden",
       "w-100",
-      "w-25",
-      "w-50",
       "wrap"
     ],
     "ids": [

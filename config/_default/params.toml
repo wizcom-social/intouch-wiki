@@ -1,7 +1,8 @@
 # Hugo
-title = "My Docs"
+title = "inTouch"
 description = "Congrats on setting up a new Doks project!"
 images = ["cover.png"]
+
 
 # mainSections
 mainSections = ["docs"]
@@ -11,6 +12,11 @@ mainSections = ["docs"]
 
 # Doks (@thulite/doks-core)
 [doks]
+
+  # logo
+  logoUrl = '/assets/images/logo.png'
+  logoAlt ="intouch"
+
   # Color mode
   colorMode = "auto" # auto (default), light or dark
   colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)
