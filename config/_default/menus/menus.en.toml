@@ -77,6 +77,11 @@
   pageRef = "/docs/setup"
   weight = 30
 
+[[sidebar_docs]]
+  name = "inTouch add-ons"
+  pageRef = "/docs/addons"
+  weight = 40
+
 #
 # [[sidebar_docs]]
 #   name = "Reference"
