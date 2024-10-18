@@ -2,7 +2,7 @@
 title = "inTouch"
 description = "Congrats on setting up a new Doks project!"
 images = ["cover.png"]
-logo= "/images/intouch.png"
+logo= "images/intouch.png"
 # mainSections
 mainSections = ["docs"]
 
@@ -40,7 +40,7 @@ mainSections = ["docs"]
   searchLimit = 99 # 0 (no limit, default) or natural number
 
   # Global alert
-  alert = false # false (default) or true
+  alert = true # false (default) or true
   alertDismissable = true # true (default) or false
 
   # Bootstrap
