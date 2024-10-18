@@ -52,11 +52,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-wizcom-inorder/</loc>
-    <lastmod>2024-10-04T11:53:57+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/docs/guides/backup-restore/</loc>
     <lastmod>2024-10-17T14:10:00+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -88,11 +83,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/docs/setup/backup-restore/</loc>
-    <lastmod>2024-10-04T11:53:57+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/addons/wizcom-inorder-add-ons/</loc>
     <lastmod>2024-10-04T11:53:57+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

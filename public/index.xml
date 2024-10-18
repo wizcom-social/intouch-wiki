@@ -59,13 +59,6 @@
       <description>&amp;quot;&amp;quot;</description>
     </item>
     <item>
-      <title>Εγκατάσταση Wizcom InOrder</title>
-      <link>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-wizcom-inorder/</link>
-      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-wizcom-inorder/</guid>
-      <description>&lt;h2 id=&#34;αρχεία-εγκατάστασης&#34;&gt;Αρχεία εγκατάστασης&lt;/h2&gt;&#xA;&lt;h2 id=&#34;config-database-to-inorder&#34;&gt;Config Database to InOrder&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Βάζουμε το Path του Wizcom InOrder&lt;/li&gt;&#xA;&lt;li&gt;Την iP από τον Server&lt;/li&gt;&#xA;&lt;li&gt;Τους κωδικούς sa&lt;/li&gt;&#xA;&lt;li&gt;Επιλέγουμε την Βάση και πατάμε POS BackOffice &amp;amp; Mobile&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img&#xD;&#xA;  src=&#34;http://localhost:1313/images/sm-conf-1_hu2380879254449083344.webp&#34;&#xD;&#xA;  width=&#34;750&#34;&#xD;&#xA;  height=&#34;332&#34;&#xD;&#xA;  decoding=&#34;async&#34;&#xD;&#xA;  fetchpriority=&#34;auto&#34;&#xD;&#xA;  loading=&#34;lazy&#34;&#xD;&#xA;  alt=&#34;Config Database to InOrder&#34;title=&#34;Config Database to InOrder&#34;id=&#34;h-rh-i-0&#34;&#xD;&#xA;/&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Backup - Restore</title>
       <link>http://localhost:1313/docs/guides/backup-restore/</link>
       <pubDate>Thu, 17 Oct 2024 14:10:00 +0300</pubDate>
@@ -78,6 +71,13 @@
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
       <guid>http://localhost:1313/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</guid>
       <description>&lt;h2 id=&#34;ρύθμιση-θερμικού-εκτυπωτήδικτύου&#34;&gt;Ρύθμιση Θερμικού Εκτυπωτή(Δικτύου)&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Φροντίζουμε να έχουμε περάσει την σωστή κωδικοποίηση (Greek) απο το driver του θερμικού μας.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ορίζουμε μια στατική IP στον εκτυπωτή στο δίκτυο μας.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Στοιχεία Εγκατάστασης &amp; Σύμβασης</title>
+      <link>http://localhost:1313/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>http://localhost:1313/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</guid>
+      <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

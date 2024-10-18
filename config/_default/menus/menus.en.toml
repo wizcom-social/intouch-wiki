@@ -68,20 +68,19 @@
   weight = 10
 
 [[sidebar_docs]]
-  name = "Οδηγός Χρήσης"
-  pageRef = "/docs/guides"
-  weight = 20
-
-[[sidebar_docs]]
   name = "Εγκατάσταση - Αναβάθμιση"
   pageRef = "/docs/setup"
-  weight = 30
+  weight = 20
 
 [[sidebar_docs]]
   name = "inTouch add-ons"
   pageRef = "/docs/addons"
-  weight = 40
+  weight = 30
 
+[[sidebar_docs]]
+  name = "Οδηγός Χρήσης"
+  pageRef = "/docs/guides"
+  weight = 40
 #
 # [[sidebar_docs]]
 #   name = "Reference"
