@@ -20,9 +20,11 @@ seo:
 
 > To [inTouch Setup](#) είναι το εργαλείο με το οποίο μπορούμε  να τροποποιήσουμε τη σύνδεση με τη βάση , δηλαδή το αρχείο **ConnectionStrings.xml** που βρίσκεται στο root folder του inTouch.
 
+Οταν ζητήσει serial για την εφαρμογή συνδεόμαστε στο [wizcom account ](https://account.wizcom.gr) και κάνουμε copy το serial στην καρτέλα άδειες του πελάτη μας.
 
 
-Για κωδικό ενεργοποίησης καλέστε : [241 067 0866](tel:+302410670866)
+![wizcom account](/images/account-serial.jpg "wizcom account")
+
 
 ## Αναβάθμιση Βάσης Δεδομένων
 
