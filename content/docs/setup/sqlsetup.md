@@ -80,3 +80,23 @@ seo:
 ## Εγκατάσταση Studio Management
 
 {{< picture src="../assets/images/sql/sm-setup-1.png" alt="" >}}
+
+## Δημιουργία βάσης SQL
+
+Κατεβάζουμε μία κενή [βάση inTouch](https://drive.google.com/file/d/118rosCFKAwupg7Gjl1RG9J3d3NIyI3Ws/view?usp=sharing) και την αποθηκεύουμε στο φάκελο **backup** στο ακόλουθο path:
+
+```bash
+C:\Microsoft SQL Server\MSSQL12.SQL2019\MSSQL\Backup
+```
+
+Ανοίγουμε το SQL Server Management Studio και εισάγουμε την database:
+
+- Στα αριστερά , στην καρτέλα Object Explorer, κάνουμε δεξί κλικ στην επιλογή DATABASES
+
+- DATABASES -> RESTORE DATABASE
+
+- Ανοίγει ένα παράθυρο και στην σελίδα General επιλέγουμε Device
+
+- Στα δεξιά κάνουμε κλικ τις 3 τελείες (…) και με add επιλέγουμε την βάση μας.
+
+- Θα εμφανιστεί «Database “Intouchdb“ restored successfully».
