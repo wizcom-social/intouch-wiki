@@ -28,14 +28,8 @@ seo:
 “Display prices during cart and checkout”: “Including tax”
 ```
 
-Στην καρτέλα *Advanced*, πηγαίνουμε στο *REST API* και προσθέτουμε ένα key με Read/Write permissions.
-
-Για να μπορούμε να κάνουμε upload τις εικόνες κάνουμε εγκατάσταση το 
-
-[Basic-Auth](https://github.com/WP-API/Basic-Auth)
-
-Για Brands κάνουμε εγκατάσταση το [WooCommerce Brands](https://woocommerce.com/products/brands/)
-
-Για τιμές χονδρικής κάνουμε εγκατάσταση το [WooCommerce Wholesale Prices](https://wholesalesuiteplugin.com/free-woocommerce-wholesale-prices-plugin/)
-
-Για μεταφορικά κάνουμε εγκατάσταση [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/)
+* Στην καρτέλα *Advanced*, πηγαίνουμε στο *REST API* και προσθέτουμε ένα key με Read/Write permissions.
+* Για να μπορούμε να κάνουμε upload τις εικόνες κάνουμε εγκατάσταση το [Basic-Auth](https://github.com/WP-API/Basic-Auth)
+* Για Brands κάνουμε εγκατάσταση το [WooCommerce Brands](https://woocommerce.com/products/brands/)
+* Για τιμές χονδρικής κάνουμε εγκατάσταση το [WooCommerce Wholesale Prices](https://wholesalesuiteplugin.com/free-woocommerce-wholesale-prices-plugin/)
+* Για μεταφορικά κάνουμε εγκατάσταση [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/)
