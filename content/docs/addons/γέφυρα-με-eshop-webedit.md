@@ -12,4 +12,6 @@ seo:
   title: Γέφυρα με eshop webedit
   description: Γέφυρα με eshop webedit
 ---
-Δεν υπάρχει περιεχόμενο προς το παρών
+Από το εικονίδιο της διαχείρισης μπαίνουμε στην καρτέλα Commerce και επιλέγουμε Ρυθμίσεις Commerce 
+
+![commerce](/images/commerce.jpg "commerce")
