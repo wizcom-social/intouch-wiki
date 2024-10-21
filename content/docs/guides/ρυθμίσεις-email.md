@@ -24,6 +24,30 @@ seo:
 
 **Κωδικός πρόσβασης**: \[Τον κωδικό του email]
 
+Caution and danger callouts are helpful for drawing a user's attention to details that may trip them up. If you find yourself using these a lot, it may also be a sign that the thing you are documenting could benefit from being redesigned.
+
+{{< callout context="caution" title="Caution" icon="outline/alert-triangle" >}}
+If you are not sure you want an awesome docs site, think twice before using [Doks](https://getdoks.org/).
+{{< /callout >}}
+
+{{< callout context="danger" title="Danger" icon="outline/alert-octagon" >}}
+Your users may be more productive and find your product easier to use thanks to helpful Doks features.
+
+* Clear navigation
+* User-configurable color theme
+* [i18n support](/docs/guides/i18n/)
+  {{< /callout >}}
+
+```md
 {{</* callout context="caution" title="Caution" icon="outline/alert-triangle" */>}}
 If you are not sure you want an awesome docs site, think twice before using [Doks](https://getdoks.org/).
 {{</* /callout */>}}
+
+{{</* callout context="danger" title="Danger" icon="outline/alert-octagon" */>}}
+Your users may be more productive and find your product easier to use thanks to helpful Doks features.
+
+- Clear navigation
+- User-configurable color theme
+- [i18n support](/docs/guides/i18n/)
+  {{</* /callout */>}}
+```
