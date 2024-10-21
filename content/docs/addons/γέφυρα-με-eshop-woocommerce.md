@@ -33,3 +33,25 @@ seo:
 * Για Brands κάνουμε εγκατάσταση το [WooCommerce Brands](https://woocommerce.com/products/brands/)
 * Για τιμές χονδρικής κάνουμε εγκατάσταση το [WooCommerce Wholesale Prices](https://wholesalesuiteplugin.com/free-woocommerce-wholesale-prices-plugin/)
 * Για μεταφορικά κάνουμε εγκατάσταση [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/)
+
+## inTouch
+
+Από το εικονίδιο της διαχείρισης μπαίνουμε στην καρτέλα Commerce και επιλέγουμε Ρυθμίσεις Commerce 
+
+![commerce](/images/commerce.jpg "commerce")
+
+Στο παράθυρο που ανοίγει επιλέγουμε *Νέα καταχώριση* και συμπληρώνουμε τα πεδία.
+
+![woocommerce](/images/webedit.jpg "whocommerce")
+
+Συμπληρώνουμε τα στοιχεία της φόρμας «Ρυθμίσεις Commerce» ως εξής:
+
+* **Ονομασία:** \[Εισάγεται ένα όνομα]
+* **Τύπος e-Commerce:** WooCommerce
+* **Client ID:** Το Consumer key που δημιουργήσαμε στο woocommerce
+* **Secret:** Το Consumer secret που δημιουργήσαμε στο woocommerce
+* **Auth User:** Το username του wordpress
+* **Password:** Το password του wordpress
+* **Server URI:** Το domain του site ΑΚΟΛΟΥΘΟΥΜΕΝΟ ΑΠΟ /
+* **Server Port:** 443
+* **Local Port: 0**
