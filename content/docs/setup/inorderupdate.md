@@ -1,5 +1,5 @@
 ---
-title: Αναβάθμιση Wizcom InOrder εκδόσεων (on-premise εγκατάσταση)
+title: Αναβάθμιση Wizcom inTouch
 description: ""
 summary: ""
 date: 2024-10-04T11:53:57+03:00
