@@ -15,6 +15,7 @@ seo:
   canonical: https://wiki.wizcom.gr/intouch/docs/getstarted/εγκατάσταση-προαπαιτούμενου-λογισμικού/
   noindex: false
 ---
+
 ![](/images/intouch.png)
 
 ## Get Started

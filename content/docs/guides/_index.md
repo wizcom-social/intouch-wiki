@@ -15,6 +15,7 @@ seo:
   canonical: ""
   noindex: false
 ---
+
 This guide describes how to set up and use Doks in Multilingual mode.
 
 {{< callout context="tip" title="Looking for an example?" icon="outline/rocket" >}}
@@ -178,9 +179,9 @@ Serving pages from disk
 
 The language switch is part of the global navigation (available on all pages).
 
-If the current page is *available* in the newly selected language, the corresponding page in the newly selected language is shown.
+If the current page is _available_ in the newly selected language, the corresponding page in the newly selected language is shown.
 
-If the current page is *not available* in the newly selected language, the homepage of the newly selected language is shown.
+If the current page is _not available_ in the newly selected language, the homepage of the newly selected language is shown.
 
 ## Common issues
 
@@ -241,5 +242,5 @@ In `config/_default/module.toml` add for example the following module mounts (in
 
 ## Resources
 
-* [Multilingual mode](https://gohugo.io/content-management/multilingual/)
-* [moodlebox/moodlebox.net](https://github.com/moodlebox/moodlebox.net)
+- [Multilingual mode](https://gohugo.io/content-management/multilingual/)
+- [moodlebox/moodlebox.net](https://github.com/moodlebox/moodlebox.net)
