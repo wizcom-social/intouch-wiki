@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "rf";
+    font-family: "Roboto Flex";
     font-style: normal;
     font-weight: 100 1000;
     font-stretch: 100%;
@@ -8,7 +8,7 @@
     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
 }
 @font-face {
-    font-family: "rf";
+    font-family: "Roboto Flex";
     font-style: normal;
     font-weight: 100 1000;
     font-stretch: 100%;
@@ -19,7 +19,8 @@
 
 body {
     font-size: 1rem;
-    font-weight: 370;
+    font-weight: 385;
+    /* font-family: "Roboto Flex", sans-serif !important; */
 }
 
 h1 {
@@ -71,6 +72,35 @@ h2 {
     h2 {
         font-size: 1.5rem;
         line-height: 2rem;
+    }
+}
+h3 {
+    font-size: 0.75rem;
+    line-height: 1.5rem;
+    font-weight: 522;
+}
+
+@media (min-width: 768px) {
+    h3 {
+        font-size: 1rem;
+        line-height: 1.75rem;
+        font-weight: 522;
+    }
+}
+
+@media (min-width: 1024px) {
+    h3 {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        font-weight: 522;
+    }
+}
+
+@media (min-width: 1280px) {
+    h3 {
+        font-size: 1.25rem;
+        line-height: 2rem;
+        font-weight: 522;
     }
 }
 blockquote {

@@ -16,3 +16,26 @@
     </div>
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Εντοπισμός όλων των εικόνων στο document
+    const images = document.querySelectorAll('img');
+
+    // Εφαρμογή lightbox σε όλες τις εικόνες
+    images.forEach(img => {
+      // Δημιουργία συνδέσμου που οδηγεί στην πλήρη εικόνα
+      const link = document.createElement('a');
+      link.href = img.src;
+      link.classList.add('glightbox');
+
+      // Προσθήκη της εικόνας μέσα στον σύνδεσμο
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+
+    // Αρχικοποίηση του GLightbox
+    const lightbox = GLightbox({
+      selector: '.glightbox'
+    });
+  });
+</script>
