@@ -123,7 +123,7 @@ import Index from 'flexsearch';
 
   function buildIndex() {
     document.querySelector('.search-loading').classList.remove('d-none');
-    fetch("intouch/{{ site.LanguagePrefix }}/search-index.json")
+    fetch("/intouch{{ site.LanguagePrefix }}/search-index.json")
       .then(function (response) {
         return response.json();
       })
