@@ -34,3 +34,6 @@ seo:
 
 ## Ρυθμίσεις intouch
 
+
+
+{{< video src="/images/mydata.mp4" autoplay="true" muted="true" >}}
