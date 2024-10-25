@@ -1,7 +1,7 @@
 ---
-title: myDATA
-description: myDATA
-summary: myDATA
+title: "myDATA Ατομική Επιχείρηση "
+description: "myDATA Ατομική Επιχείρηση "
+summary: "myDATA Ατομική Επιχείρηση "
 date: 2024-10-25T15:29:00+03:00
 lastmod: 2024-10-25T15:29:00+03:00
 draft: false
@@ -9,8 +9,8 @@ weight: 480
 toc: true
 seo:
   noindex: false
-  title: myDATA
-  description: myDATA
+  title: "myDATA Ατομική Επιχείρηση "
+  description: "myDATA Ατομική Επιχείρηση "
 ---
 ## Εγγραφή στο myDATA
 
