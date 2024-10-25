@@ -49,4 +49,11 @@
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/guides/%CE%B4%CE%B9%CE%BF%CF%81%CE%B8%CF%89%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CE%BA%CE%B9%CE%BD%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7%CF%82/</loc>
+      <lastmod>2024-10-25T16:39:00+03:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
     </urlset>
