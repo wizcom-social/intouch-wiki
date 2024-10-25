@@ -4,7 +4,7 @@ description: myDATA
 summary: myDATA
 date: 2024-10-25T15:29:00+03:00
 lastmod: 2024-10-25T15:29:00+03:00
-draft: true
+draft: false
 weight: 480
 toc: true
 seo:
