@@ -1,16 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>inTouch on Wizcom Wiki</title><link>https://wiki.wizcom.gr/intouch/</link><description>Recent content in inTouch on Wizcom Wiki</description><generator>Hugo</generator><language>en</language><copyright>Copyright (c) 2020-2024 Thulite</copyright><lastBuildDate>Fri, 25 Oct 2024 14:57:00 +0300</lastBuildDate><atom:link href="https://wiki.wizcom.gr/intouch/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Post</title><link>https://wiki.wizcom.gr/intouch/blog/example-post/</link><pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate><guid>https://wiki.wizcom.gr/intouch/blog/example-post/</guid><description>You can use blog posts for announcing product updates and features.</description></item><item><title>Προαπαιτούμενα</title><link>https://wiki.wizcom.gr/intouch/docs/getstarted/%CF%80%CF%81%CE%BF%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1/</link><pubDate>Wed, 16 Oct 2024 13:04:00 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/getstarted/%CF%80%CF%81%CE%BF%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1/</guid><description>&lt;h2 id="εγκατάσταση-προαπαιτούμενου-λογισμικού">Εγκατάσταση προαπαιτούμενου λογισμικού&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="http://www.microsoft.com/en-us/download/details.aspx?id=25150">Εγκατάσταση .NET 3.5&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="http://www.microsoft.com/en-us/download/details.aspx?id=17718">Εγκατάσταση .NET 4.6:&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://www.microsoft.com/en-US/download/details.aspx?id=52685">Microsoft Visual C++ 2015 Redistributable Update 3 RC:&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://www.dropbox.com/s/jmgeglz7awnf0x9/CRRuntime_32bit_13_0_25.msi?dl=1">Crystal Reports:&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=42081">POS for .NET 1.14&lt;/a>&lt;/p></description></item><item><title>Εκδόσεις λογισμικού</title><link>https://wiki.wizcom.gr/intouch/docs/getstarted/%CE%B5%CE%BA%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%82-%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D/</link><pubDate>Fri, 25 Oct 2024 14:57:00 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/getstarted/%CE%B5%CE%BA%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%82-%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D/</guid><description>Εκδόσεις λογισμικού</description></item><item><title>Προδιαγραφές λειτουργίας</title><link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</link><pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</guid><description>&lt;p>Η λήψη του Microsoft SQL Server αποτελεί ένα από τα πρώτα βήματα για την εγκατάσταση και χρήση μιας από τις πιο διαδεδομένες πλατφόρμες διαχείρισης σχεσιακών βάσεων δεδομένων (RDBMS). Η συγκεκριμένη λύση της Microsoft προσφέρει ισχυρά εργαλεία για την αποθήκευση, διαχείριση και ανάκτηση δεδομένων, ενώ υποστηρίζει μεγάλη ποικιλία από δυνατότητες, όπως ερωτήματα με τη γλώσσα SQL, υψηλή διαθεσιμότητα, ασφάλεια, και προηγμένα αναλυτικά εργαλεία.&lt;/p></description></item><item><title>Εγκατάσταση SQL Server</title><link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</link><pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</guid><description>Εγκατάσταση SQL Server</description></item><item><title>Εγκατάσταση InTouch</title><link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</link><pubDate>Fri, 18 Oct 2024 14:33:00 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</guid><description>&amp;quot;&amp;quot;</description></item><item><title>Ρυθμίσεις συσκευών</title><link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</link><pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</guid><description>&lt;p>Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p></description></item><item><title>Στοιχεία Εγκατάστασης &amp; Σύμβασης</title><link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</link><pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</guid><description>&lt;p>Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p></description></item><item><title>License Manager</title><link>https://wiki.wizcom.gr/intouch/docs/setup/license-manager/</link><pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/license-manager/</guid><description>&lt;p>Δεν υπάρχει περιεχόμενο προς το παρών.&lt;/p></description></item><item><title>Αναβάθμιση Wizcom inTouch</title><link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</link><pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate><guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</guid><description>&lt;p>Δεν υπάρχει περιεχόμενο προς το παρών.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inTouch on Wizcom Wiki</title>
+    <link>https://wiki.wizcom.gr/intouch/</link>
+    <description>Recent content in inTouch on Wizcom Wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Fri, 25 Oct 2024 14:57:00 +0300</lastBuildDate>
+    <atom:link href="https://wiki.wizcom.gr/intouch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Post</title>
+      <link>https://wiki.wizcom.gr/intouch/blog/example-post/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/blog/example-post/</guid>
+      <description>You can use blog posts for announcing product updates and features.</description>
+    </item>
+    <item>
+      <title>Προαπαιτούμενα</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/getstarted/%CF%80%CF%81%CE%BF%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1/</link>
+      <pubDate>Wed, 16 Oct 2024 13:04:00 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/getstarted/%CF%80%CF%81%CE%BF%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1/</guid>
+      <description>&lt;h2 id=&#34;εγκατάσταση-προαπαιτούμενου-λογισμικού&#34;&gt;Εγκατάσταση προαπαιτούμενου λογισμικού&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.microsoft.com/en-us/download/details.aspx?id=25150&#34;&gt;Εγκατάσταση .NET 3.5&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.microsoft.com/en-us/download/details.aspx?id=17718&#34;&gt;Εγκατάσταση .NET 4.6:&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/en-US/download/details.aspx?id=52685&#34;&gt;Microsoft Visual C++ 2015 Redistributable Update 3 RC:&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/jmgeglz7awnf0x9/CRRuntime_32bit_13_0_25.msi?dl=1&#34;&gt;Crystal Reports:&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/download/details.aspx?id=42081&#34;&gt;POS for .NET 1.14&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Εκδόσεις λογισμικού</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/getstarted/%CE%B5%CE%BA%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%82-%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D/</link>
+      <pubDate>Fri, 25 Oct 2024 14:57:00 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/getstarted/%CE%B5%CE%BA%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%82-%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D/</guid>
+      <description>Εκδόσεις λογισμικού</description>
+    </item>
+    <item>
+      <title>Προδιαγραφές λειτουργίας</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</guid>
+      <description>&lt;p&gt;Η λήψη του Microsoft SQL Server αποτελεί ένα από τα πρώτα βήματα για την εγκατάσταση και χρήση μιας από τις πιο διαδεδομένες πλατφόρμες διαχείρισης σχεσιακών βάσεων δεδομένων (RDBMS). Η συγκεκριμένη λύση της Microsoft προσφέρει ισχυρά εργαλεία για την αποθήκευση, διαχείριση και ανάκτηση δεδομένων, ενώ υποστηρίζει μεγάλη ποικιλία από δυνατότητες, όπως ερωτήματα με τη γλώσσα SQL, υψηλή διαθεσιμότητα, ασφάλεια, και προηγμένα αναλυτικά εργαλεία.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Εγκατάσταση SQL Server</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</guid>
+      <description>Εγκατάσταση SQL Server</description>
+    </item>
+    <item>
+      <title>Εγκατάσταση InTouch</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</link>
+      <pubDate>Fri, 18 Oct 2024 14:33:00 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</guid>
+      <description>&amp;quot;&amp;quot;</description>
+    </item>
+    <item>
+      <title>Ρυθμίσεις συσκευών</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</guid>
+      <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Στοιχεία Εγκατάστασης &amp; Σύμβασης</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</guid>
+      <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>License Manager</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/license-manager/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/license-manager/</guid>
+      <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Αναβάθμιση Wizcom inTouch</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</link>
+      <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</guid>
+      <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
