@@ -5,7 +5,7 @@ summary: "myDATA Ατομική Επιχείρηση "
 date: 2024-10-25T15:29:00+03:00
 lastmod: 2024-10-25T15:29:00+03:00
 draft: false
-weight: 480
+weight: 440
 toc: true
 seo:
   noindex: false
