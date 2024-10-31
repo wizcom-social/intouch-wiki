@@ -1,7 +1,7 @@
 ---
 title: Ρυθμίσεις Email
 description: Ρυθμίσεις Email
-summary: '""'
+summary: Ρυθμίσεις Email
 date: 2024-10-21T14:21:00+03:00
 lastmod: 2024-10-21T14:21:00+03:00
 draft: false
