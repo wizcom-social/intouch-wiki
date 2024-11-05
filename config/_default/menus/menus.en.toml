@@ -81,6 +81,11 @@
   name = "Οδηγός Χρήσης"
   pageRef = "/docs/guides"
   weight = 40
+
+[[sidebar_docs]]
+  name = "Ρυθμίσεις Εγαρμογής"
+  pageRef = "/docs/settings"
+  weight = 50
 #
 # [[sidebar_docs]]
 #   name = "Reference"
