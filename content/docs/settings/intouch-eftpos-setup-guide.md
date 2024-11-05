@@ -1,7 +1,7 @@
 ---
-title: Intouch EFT/POS Setup Guide
-description: Intouch EFT/POS Setup Guide
-summary: Intouch EFT/POS Setup Guide
+title: inTouch EFT/POS Setup Guide
+description: inTouch EFT/POS Setup Guide
+summary: inTouch EFT/POS Setup Guide
 date: 2024-11-05T11:28:00+02:00
 lastmod: 2024-11-05T11:28:00+02:00
 draft: false
@@ -9,8 +9,8 @@ weight: 510
 toc: true
 seo:
   noindex: false
-  title: Intouch EFT/POS Setup Guide
-  description: Intouch EFT/POS Setup Guide
+  title: inTouch EFT/POS Setup Guide
+  description: inTouch EFT/POS Setup Guide
 ---
 Παρακάτω υπάρχει σχετικός οδηγός για την διασύνδεση των POS με το πρόγραμμα inTouch.
 
