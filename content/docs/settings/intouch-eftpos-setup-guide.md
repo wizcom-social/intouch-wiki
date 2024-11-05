@@ -12,7 +12,6 @@ seo:
   title: Intouch Eftpos Setup Guide
   description: Intouch Eftpos Setup Guide
 ---
-## Intouch Eftpos Setup Guide
 
 Παρακάτω υπάρχει σχετικός οδηγός για την διασύνδεση όλων των Pos με το πρόγραμμα inTouch.
 
@@ -133,6 +132,37 @@ seo:
 | **Διαδρομή URI** | https://webecr.epayworldwide.com:11007 |
 | **Port** | κενό |
 | **Auth Base URI** | https://webecr.epayworldwide.com:11007 |
+|     |     |
+| **Ρυθμίσεις Δικτύου** |     |
+| **Διεύθυνση IP** | κενό |
+| **IP Port** | κενό |
+
+## Viva_CloudTerminal
+
+|     |     |
+| --- | --- | 
+| **Μοντέλο** | Mellon-WebEcr |
+| **Ονομασία** | Οτιδήποτε επιθυμούμε για να ξεχωρίζουμε τα POS. |
+| **Εταιρία** | Επιλέγουμε την εταιρία που χρησιμοποιούμε. |
+|     |     |
+| **Στοιχεία αυθεντικοποίησης** |     |
+| **Timeout** | 60  |
+| **Χρήστης** | Το βρίσκουμε μέσα από την εφαρμογή της viva |
+| **Κωδικός** | Το βρίσκουμε μέσα από την εφαρμογή της viva |
+| **API Key** |     |
+|     |     |
+| **Κωδικοί τερματικού** |     |
+| **Κωδικός τερματικού** | κωδικός τερματικού μέσα από το site. |
+| **Tid** |     |
+| **Mid** |     |
+|     |     |
+| **Τύπος διασύνδεσης** |     |
+| **Τύπος** | Web API |
+|     |     |
+| **Web API** |     |
+| **Διαδρομή URI** | https://api.vivapayments.com |
+| **Port** |     |
+| **Auth Base URI** | https://accounts.vivapayments.com |
 |     |     |
 | **Ρυθμίσεις Δικτύου** |     |
 | **Διεύθυνση IP** | κενό |
