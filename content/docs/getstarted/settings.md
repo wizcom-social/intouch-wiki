@@ -1,7 +1,7 @@
 ---
 title: Προαπαιτούμενα
 description: Προαπαιτούμενα
-summary: ""
+summary: Προαπαιτούμενα
 date: 2024-10-16T13:04:00+03:00
 lastmod: 2024-10-16T13:33:00+03:00
 draft: false
