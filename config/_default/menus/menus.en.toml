@@ -83,7 +83,7 @@
   weight = 40
 
 [[sidebar_docs]]
-  name = "Ρυθμίσεις Εγαρμογής"
+  name = "Ρυθμίσεις Εφαρμογής"
   pageRef = "/docs/settings"
   weight = 50
 #
