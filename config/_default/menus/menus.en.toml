@@ -35,7 +35,7 @@
 
 [[main]]
   name = "inTouch"
-  url = "/docs/getstarted/προαπαιτούμενα/"
+  url = "/docs/getstarted/requirements/"
   weight = 20
 
 # [[main]]
