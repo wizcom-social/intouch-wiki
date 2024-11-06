@@ -210,6 +210,83 @@ seo:
 
 **Διεύθυνση IP**\
   Την IP που έχει το τερματικό μας την βρίσκουμε με την παρακάτω διαδικασία:
+
 * *Στην αρχική οθόνη του τερματικού πατάμε OK  -> στην επιλογή Λειτουργία EDPS πατάμε OK  ->
    πληκτρολογούμε 96 και πατάμε OK  -> εισάγουμε των κωδικό 012789 και πατάμε OK* 
 * **IP Port:** 8888
+
+## INSS_Cloud
+
+|                               |                                                 |
+| ----------------------------- | ----------------------------------------------- |
+| **Μοντέλο**                   | INSS_Cloud                                      |
+| **Ονομασία**                  | Οτιδήποτε επιθυμούμε για να ξεχωρίζουμε τα POS. |
+| **Εταιρία**                   | Επιλέγουμε την εταιρία που χρησιμοποιούμε.      |
+|                               |                                                 |
+| **Στοιχεία αυθεντικοποίησης** |                                                 |
+| **Timeout**                   | 60                                              |
+| **Χρήστης**                   | TODO                                            |
+| **Κωδικός**                   | TODO                                            |
+| **API Key**                   | Κενό                                            |
+|                               |                                                 |
+| **Κωδικοί τερματικού**        |                                                 |
+| **Κωδικός τερματικού**        | Κενό                                            |
+| **Tid**                       | Συμπληρώνουμε αυτά που έχει το τερματικό μας    |
+| **Mid**                       | Συμπληρώνουμε αυτά που έχει το τερματικό μας    |
+|                               |                                                 |
+| **Τύπος διασύνδεσης**         |                                                 |
+| **Τύπος**                     | Web API                                         |
+|                               |                                                 |
+| **Web API**                   |                                                 |
+| **Διαδρομή URI**              |                                                 |
+| **Port**                      | Κενό                                            |
+| **Auth Base URI**             | Κενό                                            |
+|                               |                                                 |
+| **Ρυθμίσεις Δικτύου**         |                                                 |
+| **Διεύθυνση IP**              | Κενό                                            |
+| **IP Port**                   | Κενό                                            |
+
+Για τον NSP της cardlink θα πρέπει να γίνει εγκατάσταση το service και εδώ θα βρείτε [οδηγίες εγκατάστασης](https://docs.google.com/presentation/d/1XD-qVpIrvNuKconubdKCPNDERh4MX_lB/edit#slide=id.p1)
+
+
+
+## ΠΑΡΑΓΩΓΙΚΑ WebECR urls
+
+**PBT, JCC, Attica, Pancreta, TORA:**
+
+ApiBaseUrl: ```https://gbl.mreceipts.com/api/v2.1```
+
+AuthBaseUrl:```https://gbl.mreceipts.com/api```
+
+**Nexi:**
+
+ApiBaseUrl: ```https://nexi.mreceipts.com/api/v2.1```
+
+AuthBaseUrl: ```https://nexi.mreceipts.com/api```
+
+**NBG:**
+
+ApiBaseUrl: ```https://www.mreceipts.com/api/v2.1```
+
+AuthBaseUrl: ```https://www.mreceipts.com/api```
+
+**Wordline/Cardlink:**
+
+ApiBaseUrl: ```https://wl.mreceipts.com/api/v2.1```
+
+AuthBaseUrl: ```https://wl.mreceipts.com/api```
+
+**Euronet:**
+
+ApiBaseUrl: ```https://webecr.epayworldwide.com:11007```
+
+AuthBaseUrl: ```https://webecr.epayworldwide.com:11007```
+
+## ΠΑΡΑΓΩΓΙΚΑ Viva urls
+
+**Viva:**
+
+ApiBaseUrl: ```https://api.vivapayments.com```
+
+AuthBaseUrl: ```https://accounts.vivapayments.com``` 
+
