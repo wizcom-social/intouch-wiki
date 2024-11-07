@@ -250,43 +250,5 @@ seo:
 
 
 
-## ΠΑΡΑΓΩΓΙΚΑ WebECR urls
 
-**PBT, JCC, Attica, Pancreta, TORA:**
-
-ApiBaseUrl: ```https://gbl.mreceipts.com/api/v2.1```
-
-AuthBaseUrl:```https://gbl.mreceipts.com/api```
-
-**Nexi:**
-
-ApiBaseUrl: ```https://nexi.mreceipts.com/api/v2.1```
-
-AuthBaseUrl: ```https://nexi.mreceipts.com/api```
-
-**NBG:**
-
-ApiBaseUrl: ```https://www.mreceipts.com/api/v2.1```
-
-AuthBaseUrl: ```https://www.mreceipts.com/api```
-
-**Wordline/Cardlink:**
-
-ApiBaseUrl: ```https://wl.mreceipts.com/api/v2.1```
-
-AuthBaseUrl: ```https://wl.mreceipts.com/api```
-
-**Euronet:**
-
-ApiBaseUrl: ```https://webecr.epayworldwide.com:11007```
-
-AuthBaseUrl: ```https://webecr.epayworldwide.com:11007```
-
-## ΠΑΡΑΓΩΓΙΚΑ Viva urls
-
-**Viva:**
-
-ApiBaseUrl: ```https://api.vivapayments.com```
-
-AuthBaseUrl: ```https://accounts.vivapayments.com``` 
 
