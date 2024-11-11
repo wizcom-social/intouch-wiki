@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inTouch on Wizcom Wiki</title>
-    <link>http://localhost:1313/</link>
+    <link>https://wiki.wizcom.gr/intouch/</link>
     <description>Recent content in inTouch on Wizcom Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Fri, 25 Oct 2024 14:57:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wiki.wizcom.gr/intouch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>http://localhost:1313/blog/example-post/</link>
+      <link>https://wiki.wizcom.gr/intouch/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/blog/example-post/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/blog/example-post/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
       <title>Προαπαιτούμενα</title>
-      <link>http://localhost:1313/docs/getstarted/requirements/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/getstarted/requirements/</link>
       <pubDate>Wed, 16 Oct 2024 13:04:00 +0300</pubDate>
-      <guid>http://localhost:1313/docs/getstarted/requirements/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/getstarted/requirements/</guid>
       <description>Προαπαιτούμενα</description>
     </item>
     <item>
       <title>Εκδόσεις λογισμικού</title>
-      <link>http://localhost:1313/docs/getstarted/intouch-releases/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/getstarted/intouch-releases/</link>
       <pubDate>Fri, 25 Oct 2024 14:57:00 +0300</pubDate>
-      <guid>http://localhost:1313/docs/getstarted/intouch-releases/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/getstarted/intouch-releases/</guid>
       <description>Εκδόσεις λογισμικού</description>
     </item>
     <item>
       <title>Προδιαγραφές λειτουργίας</title>
-      <link>http://localhost:1313/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</link>
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%80%CF%81%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1%CF%82/</guid>
       <description>&lt;p&gt;Η λήψη του Microsoft SQL Server αποτελεί ένα από τα πρώτα βήματα για την εγκατάσταση και χρήση μιας από τις πιο διαδεδομένες πλατφόρμες διαχείρισης σχεσιακών βάσεων δεδομένων (RDBMS). Η συγκεκριμένη λύση της Microsoft προσφέρει ισχυρά εργαλεία για την αποθήκευση, διαχείριση και ανάκτηση δεδομένων, ενώ υποστηρίζει μεγάλη ποικιλία από δυνατότητες, όπως ερωτήματα με τη γλώσσα SQL, υψηλή διαθεσιμότητα, ασφάλεια, και προηγμένα αναλυτικά εργαλεία.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Εγκατάσταση SQL Server</title>
-      <link>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</link>
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-sql-server/</guid>
       <description>Εγκατάσταση SQL Server</description>
     </item>
     <item>
       <title>Εγκατάσταση InTouch</title>
-      <link>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</link>
       <pubDate>Fri, 18 Oct 2024 14:33:00 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-intouch/</guid>
       <description>&amp;quot;&amp;quot;</description>
     </item>
     <item>
       <title>Ρυθμίσεις συσκευών</title>
-      <link>http://localhost:1313/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</link>
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CF%8E%CE%BD/</guid>
       <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p&gt;</description>
     </item>
     <item>
       <title>Στοιχεία Εγκατάστασης &amp; Σύμβασης</title>
-      <link>http://localhost:1313/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</link>
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%CF%82/</guid>
       <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών&lt;/p&gt;</description>
     </item>
     <item>
       <title>License Manager</title>
-      <link>http://localhost:1313/docs/setup/license-manager/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/license-manager/</link>
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/license-manager/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/license-manager/</guid>
       <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Αναβάθμιση Wizcom inTouch</title>
-      <link>http://localhost:1313/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</link>
+      <link>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</link>
       <pubDate>Fri, 04 Oct 2024 11:53:57 +0300</pubDate>
-      <guid>http://localhost:1313/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</guid>
+      <guid>https://wiki.wizcom.gr/intouch/docs/setup/%CE%B1%CE%BD%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-wizcom-intouch/</guid>
       <description>&lt;p&gt;Δεν υπάρχει περιεχόμενο προς το παρών.&lt;/p&gt;</description>
     </item>
   </channel>
