@@ -38,6 +38,11 @@
   url = "/docs/getstarted/requirements/"
   weight = 20
 
+[[main]]
+  name = "Hardware"
+  url = "https://wiki.wizcom.gr/hardware/index.html"
+  weight = 30
+
 # [[main]]
 #   name = "Blog"
 #   url = "/blog/"
