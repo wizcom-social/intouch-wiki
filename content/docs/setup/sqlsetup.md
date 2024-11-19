@@ -86,7 +86,7 @@ seo:
 Κατεβάζουμε μία κενή [βάση inTouch](https://drive.google.com/file/d/118rosCFKAwupg7Gjl1RG9J3d3NIyI3Ws/view?usp=sharing) και την αποθηκεύουμε στο φάκελο **backup** στο ακόλουθο path:
 
 ```bash
-C:\Microsoft SQL Server\MSSQL12.SQL2019\MSSQL\Backup
+C:\Microsoft SQL Server\MSSQL14.SQL2017\MSSQL\Backup
 ```
 
 Ανοίγουμε το SQL Server Management Studio και εισάγουμε την database:
