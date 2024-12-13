@@ -109,12 +109,25 @@ blockquote {
 .min-h-screen {
     min-height: 100vh;
 }
+[hidden] {
+    display: none;
+}
+
 .col-span-1 {
     grid-column: span 1 / span 1;
 }
 
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .grid {
     display: grid;
+}
+
+.max-w-\[768px\] {
+    max-width: 768px;
 }
 
 .gap-4 {
@@ -133,8 +146,35 @@ blockquote {
     padding: 1.5rem;
 }
 
+.px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+@media (min-width: 640px) {
+    .sm\:grid-cols-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
 @media (min-width: 1280px) {
     .xl\:grid-cols-3 {
         grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+// For rows
+.table-striped {
+    > tbody > tr:nth-of-type(#{$table-striped-order}) > * {
+        --#{$prefix}table-color-type: var(--#{$prefix}table-striped-color);
+        --#{$prefix}table-bg-type: var(--#{$prefix}table-striped-bg);
+    }
+}
+
+// For columns
+.table-striped-columns {
+    > :not(caption) > tr > :nth-child(#{$table-striped-columns-order}) {
+        --#{$prefix}table-color-type: var(--#{$prefix}table-striped-color);
+        --#{$prefix}table-bg-type: var(--#{$prefix}table-striped-bg);
     }
 }

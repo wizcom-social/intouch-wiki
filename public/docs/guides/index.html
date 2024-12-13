@@ -581,7 +581,32 @@
     });
   });
 </script>
+<script>
+  caches.keys().then(function(names) {
+    for (let name of names) caches.delete(name);
+});
+</script>
+<script>
+  document.querySelectorAll('table').forEach(function(table) {
+    table.classList.add('table', 'table-striped');
 
+    table.querySelectorAll('tr').forEach(function(row) {
+      let isEmpty = true;
+
+      row.querySelectorAll('td').forEach(function(cell) {
+
+        let cellContent = cell.textContent.replace(/\s|\u200B/g, '').trim();
+        if (cellContent !== '') {
+          isEmpty = false;
+        }
+      });
+
+      if (isEmpty) {
+        row.remove();
+      }
+    });
+  });
+</script>
 
     
 

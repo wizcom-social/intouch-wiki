@@ -14550,11 +14550,21 @@ blockquote {
 .min-h-screen {
   min-height: 100vh; }
 
+[hidden] {
+  display: none; }
+
 .col-span-1 {
   grid-column: span 1 / span 1; }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto; }
+
 .grid {
   display: grid; }
+
+.max-w-\[768px\] {
+  max-width: 768px; }
 
 .gap-4 {
   gap: 1rem; }
@@ -14568,8 +14578,24 @@ blockquote {
 .p-6 {
   padding: 1.5rem; }
 
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem; }
+
+@media (min-width: 640px) {
+  .sm\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
 @media (min-width: 1280px) {
   .xl\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  --bs-table-color-type: var(--bs-table-striped-color);
+  --bs-table-bg-type: var(--bs-table-striped-bg); }
+
+.table-striped-columns > :not(caption) > tr > :nth-child(even) {
+  --bs-table-color-type: var(--bs-table-striped-color);
+  --bs-table-bg-type: var(--bs-table-striped-bg); }
 
 /*# sourceMappingURL=main.css.map */
