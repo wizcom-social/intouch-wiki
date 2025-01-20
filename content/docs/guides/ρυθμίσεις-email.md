@@ -22,8 +22,6 @@ seo:
 
 ![](/images/email-02.jpg)
 
-
-
 Συμπληρώνουμε τα εξής:
 
 **Όνομα αποστολέα:** \[Το όνομα του αποστολέα του Email πχ Wizcom]
@@ -47,5 +45,30 @@ seo:
 ![email settings](/images/email.jpg "email settings")
 
 ## Ρυθμίσεις  Microsoft, Outlook.com
+
+Κάνουμε σύνδεση στο  [mysignins](https://login.microsoftonline.com/common/oauth2/v2.0/authorize) πιλέγουμε το `security info` και στη συνέχεια `Add sign-in method`
+
+![](/images/screenshot_2.png)
+
+* Επιλέγουμε `App Password`
+* Δίνουμε ένα όνομα για την εφαρμογή που θέλουμε (πχ InTouch)
+* Σε αυτό το βήμα έχει δημιουργηθεί αυτόματα ένας κωδικός.
+
+  ![](/images/email-outlook-001.jpg)
+
+Κάνουμε τις απαραίτητες ρυθμίσεις στο inTouch:
+
+|                          |                       |
+| ------------------------ | --------------------- |
+| **Incoming Mail (IMAP)** |                       |
+| Server                   | imap-mail.outlook.com |
+| Port                     | 993                   |
+| Encryption               | SSL                   |
+| **Outgoing Mail (SMTP)** |                       |
+| Server                   | smtp-mail.outlook.com |
+| Port                     | 587                   |
+| Encryption               | STARTTLS (or TLS)     |
+
 ## Ρυθμίσεις Google, gmail
+
 ## Ρυθμίσεις Yahoo mail
