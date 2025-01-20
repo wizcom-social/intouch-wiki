@@ -46,7 +46,7 @@ seo:
 
 ## Ρυθμίσεις  Microsoft, Outlook.com
 
-Κάνουμε σύνδεση στο  [mysignins](https://login.microsoftonline.com/common/oauth2/v2.0/authorize) πιλέγουμε το `security info` και στη συνέχεια `Add sign-in method`
+Κάνουμε σύνδεση στο  [mysignins](https://mysignins.microsoft.com/) επιλέγουμε το `security info` και στη συνέχεια `Add sign-in method`
 
 ![](/images/screenshot_2.png)
 
@@ -57,6 +57,8 @@ seo:
   ![](/images/email-outlook-001.jpg)
 
 Κάνουμε τις απαραίτητες ρυθμίσεις στο inTouch:
+
+![](/images/email-outlook-002.jpg)
 
 |                          |                       |
 | ------------------------ | --------------------- |
@@ -71,4 +73,30 @@ seo:
 
 ## Ρυθμίσεις Google, gmail
 
+Παρόμοια με την προηγούμενη περίπτωση για gmail συμπληρώνουμε:
+
+|                          |                   |
+| ------------------------ | ----------------- |
+| **Incoming Mail (IMAP)** |                   |
+| Server                   | imap.gmail.com    |
+| Port                     | 993               |
+| Encryption               | SSL               |
+| **Outgoing Mail (SMTP)** |                   |
+| Server                   | smtp.gmail.com    |
+| Port                     | 587               |
+| Encryption               | STARTTLS (or TLS) |
+
 ## Ρυθμίσεις Yahoo mail
+
+Παρόμοια με τις προηγούμενες περιπτώσεις συμπληρώνουμε:
+
+|                          |                     |
+| ------------------------ | ------------------- |
+| **Incoming Mail (IMAP)** |                     |
+| Server                   | imap.mail.yahoo.com |
+| Port                     | 993                 |
+| Encryption               | SSL                 |
+| **Outgoing Mail (SMTP)** |                     |
+| Server                   | smtp.mail.yahoo.com |
+| Port                     | 465                 |
+| Encryption               | SSL                 |
