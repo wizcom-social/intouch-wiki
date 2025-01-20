@@ -14,7 +14,7 @@ seo:
 ---
 Πηγαίνουμε στη `Διαχείριση` -> `Παρστατικά`  -> `Courier API`.
 
-![](/images/courier.jpg)
+![](/images/courier-2.jpg)
 
 **Τύπος API:** \[Επιλέγουμε την εταιρία Courier]
 
@@ -32,4 +32,4 @@ seo:
 
 **Συνθηματικό χρήστη:** \[Το προμηθευόμαστε από την εταιρία Courier]
 
-![courier](/images/courier-2.jpg "courier")
+![](/images/courier.jpg)
