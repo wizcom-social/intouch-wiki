@@ -12,7 +12,7 @@ seo:
   title: Ρυθμίσεις Courier API
   description: Ρυθμίσεις Courier API
 ---
-Πηγαίνουμε στη `Διαχείριση` -> `Παρστατικά`  -> `Courier API`στην καρτέλα βασικές ρυθμίσεις.
+Πηγαίνουμε στη `Διαχείριση` -> `Παρστατικά`  -> `Courier API`.
 
 ![](/images/courier.jpg)
 
