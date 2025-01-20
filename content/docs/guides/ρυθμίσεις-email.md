@@ -1,7 +1,7 @@
 ---
 title: Ρυθμίσεις Email
-description: Ρυθμίσεις Email
-summary: Ρυθμίσεις Email
+description: Ρυθμίσεις λογαριασμών
+summary: Ρυθμίσεις λογαριασμών
 date: 2024-10-21T14:21:00+03:00
 lastmod: 2025-01-20T12:00:00+02:00
 draft: false
