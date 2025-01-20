@@ -12,6 +12,8 @@ seo:
   title: Ρυθμίσεις Email
   description: Ρυθμίσεις Email
 ---
+## Γενικές Ρυθμίσεις
+
 Πηγαίνουμε στη `Διαχείριση` -> `Εταιρείες` -> `Λογαριασμοί Email`
 
 ![](/images/email-01.jpg)
@@ -43,3 +45,7 @@ seo:
 {{< /callout >}}
 
 ![email settings](/images/email.jpg "email settings")
+
+## Ρυθμίσεις  Microsoft, Outlook.com
+## Ρυθμίσεις Google, gmail
+## Ρυθμίσεις Yahoo mail
