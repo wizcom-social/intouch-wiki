@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 09:46:00 +0200</lastBuildDate>
     <atom:link href="https://wiki.wizcom.gr/intouch/docs/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Εταιρία, Πελάτες, Αποθήκη</title>
@@ -59,6 +59,13 @@
       <description>myDATA Ατομική Επιχείρηση</description>
     </item>
     <item>
+      <title>Αυτοτιμολόγηση</title>
+      <link>https://wiki.wizcom.gr/intouch/docs/guides/%CE%B1%CF%85%CF%84%CE%BF%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7/</link>
+      <pubDate>Thu, 23 Jan 2025 09:46:00 +0200</pubDate>
+      <guid>https://wiki.wizcom.gr/intouch/docs/guides/%CE%B1%CF%85%CF%84%CE%BF%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7/</guid>
+      <description>Αυτοτιμολόγηση</description>
+    </item>
+    <item>
       <title>Διορθωτικές κινήσεις αποθήκης</title>
       <link>https://wiki.wizcom.gr/intouch/docs/guides/%CE%B4%CE%B9%CE%BF%CF%81%CE%B8%CF%89%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CE%BA%CE%B9%CE%BD%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7%CF%82/</link>
       <pubDate>Fri, 25 Oct 2024 16:39:00 +0300</pubDate>
@@ -71,13 +78,6 @@
       <pubDate>Wed, 30 Oct 2024 14:22:00 +0200</pubDate>
       <guid>https://wiki.wizcom.gr/intouch/docs/guides/%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%84%CE%B1%CF%84%CE%B9%CE%BA%CF%8C-%CF%80%CF%81%CE%BF%CF%83%CF%86%CE%BF%CF%81%CE%AC%CF%82/</guid>
       <description>Παραστατικό προσφοράς</description>
-    </item>
-    <item>
-      <title>Οδηγός χρήσης POS με inTouch    </title>
-      <link>https://wiki.wizcom.gr/intouch/docs/guides/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CF%87%CF%81%CE%AE%CF%83%CE%B7%CF%82-pos-%CE%BC%CE%B5-intouch/</link>
-      <pubDate>Mon, 11 Nov 2024 12:42:00 +0200</pubDate>
-      <guid>https://wiki.wizcom.gr/intouch/docs/guides/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CF%87%CF%81%CE%AE%CF%83%CE%B7%CF%82-pos-%CE%BC%CE%B5-intouch/</guid>
-      <description>Οδηγός χρήσης POS με inTouch</description>
     </item>
   </channel>
 </rss>
