@@ -28,6 +28,8 @@
 				</nav>
 			{{ end }}
 			<h1>{{ .Title }}</h1>
+			<p class="text-primary" style="font-size: 14px;">Τελευταία τροποποίηση: {{ .Params.lastmod |
+            dateFormat "January 2, 2006" }}</p>
 			<!-- <p class="lead">{{ .Params.lead | safeHTML }}</p> -->
 			{{ if ne .Params.toc false -}}
 			<nav class="toc-mobile d-xl-none d-print-none" aria-label="Quaternary navigation">
