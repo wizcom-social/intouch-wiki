@@ -30,7 +30,7 @@
 			<h1>{{ .Title }}</h1>
 			<!-- <p class="lead">{{ .Params.lead | safeHTML }}</p> -->
 			{{ if ne .Params.toc false -}}
-			<nav class="toc-mobile d-xl-none" aria-label="Quaternary navigation">
+			<nav class="toc-mobile d-xl-none d-print-none" aria-label="Quaternary navigation">
 				{{ partial "sidebar/docs-toc-mobile.html" . }}
 			</nav>
 			{{ end -}}
