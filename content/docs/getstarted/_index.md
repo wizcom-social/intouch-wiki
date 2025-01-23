@@ -4,7 +4,7 @@ summary: Get Started
 date: 2024-10-09T10:42:00+03:00
 lastmod: 2024-10-09T10:42:00+03:00
 draft: false
-weight: 100
+weight: 1000
 toc: true
 sidebar:
   collapsed: true

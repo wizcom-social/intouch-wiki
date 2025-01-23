@@ -5,18 +5,19 @@ summary: '""'
 date: 2024-10-18T14:41:00+03:00
 lastmod: 2024-10-18T14:41:00+03:00
 draft: false
-weight: 320
+weight: 3200
 toc: true
 seo:
   noindex: false
   title: Γέφυρα με eshop webedit
   description: Γέφυρα με eshop webedit
 ---
+
 Από το εικονίδιο της διαχείρισης μπαίνουμε στην καρτέλα Commerce και επιλέγουμε Ρυθμίσεις Commerce
 
 ![commerce](/images/commerce.jpg "commerce")
 
-Στο παράθυρο που ανοίγει επιλέγουμε *Νέα καταχώριση* και συμπληρώνουμε τα πεδία.
+Στο παράθυρο που ανοίγει επιλέγουμε _Νέα καταχώριση_ και συμπληρώνουμε τα πεδία.
 
 ![web edit](/images/webedit.jpg "web edit")
 
@@ -33,8 +34,6 @@ seo:
 | **Server URI**       | https://sync.wizcom.gr                                 |
 | **Server Port**      | 443                                                    |
 | **Local Port**       | 0                                                      |
-
-
 
 Συμπληρώνουμε τα στοιχεία της φόρμας «Ρυθμίσεις Intouch (Εμπορικό)» ως εξής:
 

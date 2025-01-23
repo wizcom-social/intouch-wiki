@@ -5,20 +5,21 @@ summary: Ρυθμίσεις λογαριασμών
 date: 2024-10-21T14:21:00+03:00
 lastmod: 2025-01-20T12:00:00+02:00
 draft: false
-weight: 430
+weight: 4300
 toc: true
 seo:
   noindex: false
   title: Ρυθμίσεις Email
   description: Ρυθμίσεις Email
 ---
+
 ## Γενικές Ρυθμίσεις
 
 Πηγαίνουμε στη `Διαχείριση` -> `Εταιρείες` -> `Λογαριασμοί Email`
 
 ![](/images/email-01.jpg)
 
-Κάνουμε `Νέα καταχώρηση` (αν δεν υπάρχει καταχώρηση) διαφορετικά επεξεργαζόμαστε την υπάρχουσα . 
+Κάνουμε `Νέα καταχώρηση` (αν δεν υπάρχει καταχώρηση) διαφορετικά επεξεργαζόμαστε την υπάρχουσα .
 
 ![](/images/email-02.jpg)
 
@@ -44,15 +45,15 @@ seo:
 
 ![email settings](/images/email.jpg "email settings")
 
-## Ρυθμίσεις  Microsoft, Outlook.com
+## Ρυθμίσεις Microsoft, Outlook.com
 
-Κάνουμε σύνδεση στο  [mysignins](https://mysignins.microsoft.com/) επιλέγουμε το `security info` και στη συνέχεια `Add sign-in method`
+Κάνουμε σύνδεση στο [mysignins](https://mysignins.microsoft.com/) επιλέγουμε το `security info` και στη συνέχεια `Add sign-in method`
 
 ![](/images/screenshot_2.png)
 
-* Επιλέγουμε `App Password`
-* Δίνουμε ένα όνομα για την εφαρμογή που θέλουμε (πχ InTouch)
-* Σε αυτό το βήμα έχει δημιουργηθεί αυτόματα ένας κωδικός.
+- Επιλέγουμε `App Password`
+- Δίνουμε ένα όνομα για την εφαρμογή που θέλουμε (πχ InTouch)
+- Σε αυτό το βήμα έχει δημιουργηθεί αυτόματα ένας κωδικός.
 
   ![](/images/email-outlook-001.jpg)
 
