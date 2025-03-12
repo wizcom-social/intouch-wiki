@@ -6,7 +6,7 @@
     languageISO = "EN"
     languageTag = "en-US"
     footer = '<a class="text-muted" href="https://www.wizcom.gr">Wizcom</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/intouch/docs/getstarted/intouch-releases/">Τελευταία έκδοση inTouch 6.99.768 - 2024.11.04.16.30</a>'
+    alertText = '<a class="alert-link stretched-link fw-normal" href="/intouch/docs/getstarted/intouch-releases/">Τελευταία έκδοση inTouch  6.99.770 - 2024.12.31.15.00</a>'
 
 [de]
   languageName = "German"

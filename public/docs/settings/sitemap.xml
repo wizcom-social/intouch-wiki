@@ -2,14 +2,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://wiki.wizcom.gr/intouch/docs/settings/intouch-eft/pos-setup-guide/</loc>
+      <loc>http://localhost:1313/docs/settings/intouch-eft/pos-setup-guide/</loc>
       <lastmod>2024-11-05T11:28:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://wiki.wizcom.gr/intouch/docs/settings/%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9%CF%89%CF%84%CE%B9%CE%BA%CE%AC-%CE%B3%CF%81%CE%B1%CF%86%CE%B5%CE%AF%CE%B1/</loc>
+      <loc>http://localhost:1313/docs/settings/%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9%CF%89%CF%84%CE%B9%CE%BA%CE%AC-%CE%B3%CF%81%CE%B1%CF%86%CE%B5%CE%AF%CE%B1/</loc>
       <lastmod>2025-01-23T12:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

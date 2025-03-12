@@ -230,6 +230,7 @@
       "offcanvas-title",
       "order-3",
       "outline/alert-triangle",
+      "outline/rocket",
       "p-0",
       "p-1",
       "p-2",
@@ -299,6 +300,7 @@
     "ids": [
       "05112024",
       "26092024",
+      "31122024",
       "TableOfContents",
       "announcement",
       "buttonColorMode",
@@ -340,6 +342,7 @@
       "sql-2019-express",
       "studio-management",
       "svg-alert-triangle",
+      "svg-rocket",
       "toTop",
       "toc",
       "viva_cloudterminal",
